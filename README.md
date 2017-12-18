@@ -40,7 +40,7 @@ Refer **--help** for more information
 #### Limitations:
 
 * The server and client are designed to run locally. Modifications might be required to run in remote environment.
-* The code is designed to handle five clients. (i.e up to five synonym requests
+* The code is designed to handle five clients. (i.e, up to five synonym requests)
     >The server is designed in this way as per the project requirement.
 
 #### Additional information:
