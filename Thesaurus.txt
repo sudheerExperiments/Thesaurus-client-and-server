@@ -1,0 +1,9 @@
+Abandon:Desert, leave, forsake, depart from, quit, giveup, relinquish, discontinue, abdicate.
+ANT:Claim, cherish, defend, keep, hold, maintain, protect, adopt, uphold, advocate, vindicate.
+Abandoned:Discarded, rejected, depraved, corrupt, profligate, wicked, unprincipled, shameless.
+Abandonment:Desertion, renunciation, surrender, rejection.
+Babble: Chatter, prattle, jibber, gossip, tattle, blab, blurt out, murmur.
+Babel: Tumult, disorder, clamor, confusion, discord, din, pother.
+Back:  a. and ad. Remote, hindmost, in the rear; again, return.
+Backbiter: Slanderer, defamer, traducer, calumniator, detractor, cynic.
+Backslider: Recreant, apostate, renegade, deserter, abjurer.
