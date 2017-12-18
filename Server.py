@@ -1,16 +1,16 @@
 # Server Program
 
 ####################################################
-# Credits
+# References
 ####################################################
 # Tutorial to implement Client-Server program using TCP:
 # https://www.youtube.com/watch?v=XiVVYfgDolU&t
 
-# Multi-threading approch:
+# Multi-threading approach:
 # https://stackoverflow.com/questions/23828264/how-to-make-a-simple-multithreaded-socket-server-in-python-that-remembers-client
 
 # Expected exception corrections:
-# Citation: https://stackoverflow.com/questions/35993734/python-tcp-client-connection
+# https://stackoverflow.com/questions/35993734/python-tcp-client-connection
 ####################################################
 
 

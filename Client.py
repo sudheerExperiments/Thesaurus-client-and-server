@@ -2,13 +2,13 @@
 # Run multiple times for multi-threading interaction with server
 
 ####################################################
-# Credits
+# References
 ####################################################
 # AppJar library installation tutorial:
 # http://appjar.info/
 
 # TCP client program sample:
-# Citation: https://stackoverflow.com/questions/35993734/python-tcp-client-connection
+# https://stackoverflow.com/questions/35993734/python-tcp-client-connection
 ####################################################
 
 # Import statements
