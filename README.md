@@ -22,26 +22,26 @@ The project is designed to run in python 3. I recommend to check the library req
 ##### Server
 `python Server.py "ip_address" port_number`
 
-To use the default *ip address* and *port number* use the below command
+To use the default *ip address* and *port number* use the command: 
 `python Server.py --default`
 
-Refer **--help** for more information 
+Refer **--help** for more information:  
 `python Server.py --help`
 
 ##### Client
 `python Client.py "ip_address" port_number`
 
-To use the default *ip address* and *port number* use the below command on command prompt
+To use the default *ip address* and *port number* use the command: 
 `python Client.py --default`
 
-Refer **--help** for more information 
+Refer **--help** for more information:
 `python Client.py --help`
 
 #### Limitations:
 
 * The server and client are designed to run locally. Modifications might be required to run in remote environment.
 * The code is designed to handle five clients. (i.e, up to five synonym requests)
-    >The server is designed in this way as per the project requirement.
+    >The server is designed only for five clients as per the project requirement.
 
 #### Additional information:
 
